@@ -1,4 +1,4 @@
-# ControleDeEstoque
+# Controle De Estoque
 
 ## Um mini projeto de controle de estoque, onde pode: 
 
